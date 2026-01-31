@@ -1,0 +1,41 @@
+route_id,origin_city,destination_city,mileage,estimated_hours
+1,Cedar Falls,Chicago,300,6
+2,Des Moines,Kansas City,200,4
+3,Sioux City,Denver,600,12
+4,Ames,Minneapolis,250,5
+5,Davenport,St. Louis,280,6
+6,Waterloo,Omaha,350,7
+7,Cedar Rapids,Milwaukee,270,5
+8,Iowa City,Detroit,500,10
+9,Mason City,Indianapolis,450,9
+10,Dubuque,Madison,180,4
+11,Fort Dodge,St. Paul,320,6
+12,Marshalltown,Chicago,310,6
+13,Ottumwa,Memphis,520,11
+14,Clinton,Milwaukee,260,5
+15,Muscatine,St. Louis,300,6
+16,Sioux Falls,Minneapolis,240,5
+17,La Crosse,Des Moines,280,6
+18,Peoria,Cedar Rapids,200,4
+19,Rockford,Davenport,170,3
+20,Springfield,Ames,350,7
+21,Lincoln,Omaha,60,1
+22,Omaha,Kansas City,190,4
+23,Kansas City,Denver,600,12
+24,Denver,Chicago,1000,20
+25,Chicago,Detroit,280,6
+26,Detroit,Cleveland,170,3
+27,Cleveland,Pittsburgh,130,3
+28,Pittsburgh,Philadelphia,300,6
+29,Philadelphia,New York,95,2
+30,New York,Boston,215,4
+31,Boston,Albany,170,3
+32,Albany,Buffalo,290,6
+33,Buffalo,Toronto,100,2
+34,Toronto,Ottawa,280,6
+35,Ottawa,Montreal,200,4
+36,Montreal,Quebec City,160,3
+37,Quebec City,Halifax,650,12
+38,Halifax,Boston,700,14
+39,Boston,Washington DC,440,9
+40,Washington DC,Atlanta,640,12

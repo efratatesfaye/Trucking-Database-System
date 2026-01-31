@@ -1,0 +1,21 @@
+item_id,description,quantity,weight,hazmat_flag,value,shipment_id
+1,Pallet of electronics,10,500,0,25000.00,20
+2,Boxes of clothing,50,300,0,12000.00,1
+3,Industrial chemicals,5,800,1,18000.00,2
+4,Furniture sets,3,1200,0,15000.00,3
+5,Medical supplies,20,400,0,22000.00,4
+6,Construction materials,15,2000,0,30000.00,5
+7,Paint cans,40,600,1,8000.00,6
+8,Refrigerated food,25,700,0,10000.00,7
+9,Office equipment,12,900,0,17000.00,8
+10,Automotive parts,30,1500,0,28000.00,9
+11,Laboratory glassware,18,350,0,9000.00,10
+12,Compressed gas cylinders,6,450,1,16000.00,11
+13,Books and printed materials,100,250,0,5000.00,12
+14,Heavy machinery components,4,1800,0,32000.00,13
+15,Pharmaceutical samples,10,300,1,14000.00,14
+16,Wooden pallets,20,1200,0,6000.00,15
+17,Cleaning agents,30,500,1,7000.00,16
+18,Frozen seafood,22,800,0,11000.00,17
+19,Computer monitors,16,950,0,19000.00,18
+20,Vehicle batteries,12,1000,1,21000.00,19

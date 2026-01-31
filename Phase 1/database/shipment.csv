@@ -1,0 +1,151 @@
+shipment_id,origin,destination,weight,delivery_date,status,customer_id,truck_id,route_id
+1,Cedar Falls,Chicago,1200,2025-01-10,pending,1,1,1
+2,Des Moines,Kansas City,800,2025-01-12,in_transit,2,2,2
+3,Sioux City,Denver,5000,2025-01-15,delivered,3,3,3
+4,Ames,Minneapolis,1500,2025-01-18,cancelled,4,4,4
+5,Davenport,St. Louis,2200,2025-01-20,pending,5,5,5
+6,Waterloo,Omaha,1800,2025-01-22,in_transit,6,6,6
+7,Cedar Rapids,Milwaukee,2000,2025-01-25,delivered,7,7,7
+8,Iowa City,Detroit,3500,2025-01-28,pending,8,8,8
+9,Mason City,Indianapolis,2700,2025-01-30,in_transit,9,9,9
+10,Dubuque,Madison,900,2025-02-02,delivered,10,10,10
+11,Fort Dodge,St. Paul,1600,2025-02-05,pending,11,11,11
+12,Marshalltown,Chicago,1400,2025-02-07,in_transit,12,12,12
+13,Ottumwa,Memphis,4200,2025-02-10,delivered,13,13,13
+14,Clinton,Milwaukee,2100,2025-02-12,pending,14,14,14
+15,Muscatine,St. Louis,2500,2025-02-15,in_transit,15,15,15
+16,Sioux Falls,Minneapolis,1900,2025-02-18,delivered,16,16,16
+17,La Crosse,Des Moines,1700,2025-02-20,pending,17,17,17
+18,Peoria,Cedar Rapids,1300,2025-02-22,in_transit,18,18,18
+19,Rockford,Davenport,1100,2025-02-25,delivered,19,19,19
+20,Springfield,Ames,2800,2025-02-28,pending,20,20,20
+21,Lincoln,Omaha,600,2025-03-02,in_transit,21,21,21
+22,Omaha,Kansas City,1900,2025-03-05,delivered,22,22,22
+23,Kansas City,Denver,5200,2025-03-08,pending,23,23,23
+24,Denver,Chicago,4800,2025-03-10,in_transit,24,24,24
+25,Chicago,Detroit,2600,2025-03-12,delivered,25,25,25
+26,Detroit,Cleveland,1800,2025-03-14,pending,26,26,26
+27,Cleveland,Pittsburgh,1500,2025-03-16,in_transit,27,27,27
+28,Pittsburgh,Philadelphia,3200,2025-03-18,delivered,28,28,28
+29,Philadelphia,New York,900,2025-03-20,pending,29,29,29
+30,New York,Boston,2100,2025-03-22,in_transit,30,30,30
+31,Boston,Albany,1700,2025-03-24,delivered,31,1,31
+32,Albany,Buffalo,2900,2025-03-26,pending,32,2,32
+33,Buffalo,Toronto,1000,2025-03-28,in_transit,33,3,33
+34,Toronto,Ottawa,2800,2025-03-30,delivered,34,4,34
+35,Ottawa,Montreal,2000,2025-04-01,pending,35,5,35
+36,Montreal,Quebec City,1600,2025-04-03,in_transit,36,6,36
+37,Quebec City,Halifax,6500,2025-04-05,delivered,37,7,37
+38,Halifax,Boston,7000,2025-04-07,pending,38,8,38
+39,Boston,Washington DC,4400,2025-04-09,in_transit,39,9,39
+40,Washington DC,Atlanta,6400,2025-04-11,delivered,40,10,40
+41,Cedar Falls,Chicago,1200,2025-04-13,pending,41,11,1
+42,Des Moines,Kansas City,800,2025-04-15,in_transit,42,12,2
+43,Sioux City,Denver,5000,2025-04-17,delivered,43,13,3
+44,Ames,Minneapolis,1500,2025-04-19,cancelled,44,14,4
+45,Davenport,St. Louis,2200,2025-04-21,pending,45,15,5
+46,Waterloo,Omaha,1800,2025-04-23,in_transit,46,16,6
+47,Cedar Rapids,Milwaukee,2000,2025-04-25,delivered,47,17,7
+48,Iowa City,Detroit,3500,2025-04-27,pending,48,18,8
+49,Mason City,Indianapolis,2700,2025-04-29,in_transit,49,19,9
+50,Dubuque,Madison,900,2025-05-01,delivered,50,20,10
+51,Fort Dodge,St. Paul,1600,2025-05-03,pending,51,21,11
+52,Marshalltown,Chicago,1400,2025-05-05,in_transit,52,22,12
+53,Ottumwa,Memphis,4200,2025-05-07,delivered,53,23,13
+54,Clinton,Milwaukee,2100,2025-05-09,pending,54,24,14
+55,Muscatine,St. Louis,2500,2025-05-11,in_transit,55,25,15
+56,Sioux Falls,Minneapolis,1900,2025-05-13,delivered,56,26,16
+57,La Crosse,Des Moines,1600,2025-05-15,pending,57,27,17
+58,Peoria,Cedar Rapids,1300,2025-05-17,in_transit,58,28,18
+59,Rockford,Davenport,1100,2025-05-19,delivered,59,29,19
+60,Springfield,Ames,2800,2025-05-21,pending,60,30,20
+61,Lincoln,Omaha,600,2025-05-23,in_transit,61,1,21
+62,Omaha,Kansas City,1900,2025-05-25,delivered,62,2,22
+63,Kansas City,Denver,5200,2025-05-27,pending,63,3,23
+64,Denver,Chicago,4800,2025-05-29,in_transit,64,4,24
+65,Chicago,Detroit,2600,2025-05-31,delivered,65,5,25
+66,Detroit,Cleveland,1800,2025-06-02,pending,66,6,26
+67,Cleveland,Pittsburgh,1500,2025-06-04,in_transit,67,7,27
+68,Pittsburgh,Philadelphia,3200,2025-06-06,delivered,68,8,28
+69,Philadelphia,New York,900,2025-06-08,pending,69,9,29
+70,New York,Boston,2100,2025-06-10,in_transit,70,10,30
+71,Boston,Albany,1700,2025-06-12,delivered,71,11,31
+72,Albany,Buffalo,2900,2025-06-14,pending,72,12,32
+73,Buffalo,Toronto,1000,2025-06-16,in_transit,73,13,33
+74,Toronto,Ottawa,2800,2025-06-18,delivered,74,14,34
+75,Ottawa,Montreal,2000,2025-06-20,pending,75,15,35
+76,Montreal,Quebec City,1600,2025-06-22,in_transit,76,16,36
+77,Quebec City,Halifax,6500,2025-06-24,delivered,77,17,37
+78,Halifax,Boston,7000,2025-06-26,pending,78,18,38
+79,Boston,Washington DC,4400,2025-06-28,in_transit,79,19,39
+80,Washington DC,Atlanta,6400,2025-06-30,delivered,80,20,40
+81,Cedar Falls,Chicago,1200,2025-07-02,pending,81,21,1
+82,Des Moines,Kansas City,800,2025-07-04,in_transit,82,22,2
+83,Sioux City,Denver,5000,2025-07-06,delivered,83,23,3
+84,Ames,Minneapolis,1500,2025-07-08,cancelled,84,24,4
+85,Davenport,St. Louis,2200,2025-07-10,pending,85,25,5
+86,Waterloo,Omaha,1800,2025-07-12,in_transit,86,26,6
+87,Cedar Rapids,Milwaukee,2000,2025-07-14,delivered,87,27,7
+88,Iowa City,Detroit,3500,2025-07-16,pending,88,28,8
+89,Mason City,Indianapolis,2700,2025-07-18,in_transit,89,29,9
+90,Dubuque,Madison,900,2025-07-20,delivered,90,30,10
+91,Fort Dodge,St. Paul,1600,2025-07-22,pending,91,1,11
+92,Marshalltown,Chicago,1400,2025-07-24,in_transit,92,2,12
+93,Ottumwa,Memphis,4200,2025-07-26,delivered,93,3,13
+94,Clinton,Milwaukee,2100,2025-07-28,pending,94,4,14
+95,Muscatine,St. Louis,2500,2025-07-30,in_transit,95,5,15
+96,Sioux Falls,Minneapolis,1900,2025-08-01,delivered,96,6,16
+97,La Crosse,Des Moines,1500,2025-08-03,pending,97,7,17
+98,Peoria,Cedar Rapids,1300,2025-08-05,in_transit,98,8,18
+99,Rockford,Davenport,1100,2025-08-07,delivered,99,9,19
+100,Springfield,Ames,2800,2025-08-09,pending,100,10,20
+101,Lincoln,Omaha,600,2025-08-11,in_transit,101,11,21
+102,Omaha,Kansas City,1900,2025-08-13,delivered,102,12,22
+103,Kansas City,Denver,5200,2025-08-15,pending,103,13,23
+104,Denver,Chicago,4800,2025-08-17,in_transit,104,14,24
+105,Chicago,Detroit,2600,2025-08-19,delivered,105,15,25
+106,Detroit,Cleveland,1800,2025-08-21,pending,106,16,26
+107,Cleveland,Pittsburgh,1500,2025-08-23,in_transit,107,17,27
+108,Pittsburgh,Philadelphia,3200,2025-08-25,delivered,108,18,28
+109,Philadelphia,New York,900,2025-08-27,pending,109,19,29
+110,New York,Boston,2100,2025-08-29,in_transit,110,20,30
+111,Boston,Albany,1700,2025-08-31,delivered,111,21,31
+112,Albany,Buffalo,2900,2025-09-02,pending,112,22,32
+113,Buffalo,Toronto,1000,2025-09-04,in_transit,113,23,33
+114,Toronto,Ottawa,2800,2025-09-06,delivered,114,24,34
+115,Ottawa,Montreal,2000,2025-09-08,pending,115,25,35
+116,Montreal,Quebec City,1600,2025-09-10,in_transit,116,26,36
+117,Quebec City,Halifax,6500,2025-09-12,delivered,117,27,37
+118,Halifax,Boston,7000,2025-09-14,pending,118,28,38
+119,Boston,Washington DC,4400,2025-09-16,in_transit,119,29,39
+120,Washington DC,Atlanta,6400,2025-09-18,delivered,120,30,40
+121,Cedar Falls,Chicago,1200,2025-09-20,pending,121,1,1
+122,Des Moines,Kansas City,800,2025-09-22,in_transit,122,2,2
+123,Sioux City,Denver,5000,2025-09-24,delivered,123,3,3
+124,Ames,Minneapolis,1500,2025-09-26,cancelled,124,4,4
+125,Davenport,St. Louis,2200,2025-09-28,pending,125,5,5
+126,Waterloo,Omaha,1800,2025-09-30,in_transit,126,6,6
+127,Cedar Rapids,Milwaukee,2000,2025-10-02,delivered,127,7,7
+128,Iowa City,Detroit,3500,2025-10-04,pending,128,8,8
+129,Mason City,Indianapolis,2700,2025-10-06,in_transit,129,9,9
+130,Dubuque,Madison,900,2025-10-08,delivered,130,10,10
+131,Fort Dodge,St. Paul,1600,2025-10-10,pending,131,11,11
+132,Marshalltown,Chicago,1400,2025-10-12,in_transit,132,12,12
+133,Ottumwa,Memphis,4200,2025-10-14,delivered,133,13,13
+134,Clinton,Milwaukee,2100,2025-10-16,pending,134,14,14
+135,Muscatine,St. Louis,2500,2025-10-18,in_transit,135,15,15
+136,Sioux Falls,Minneapolis,1900,2025-10-20,delivered,136,16,16
+137,La Crosse,Des Moines,1900,2025-10-22,pending,137,17,17
+138,Peoria,Cedar Rapids,1300,2025-10-24,in_transit,138,18,18
+139,Rockford,Davenport,1100,2025-10-26,delivered,139,19,19
+140,Springfield,Ames,2800,2025-10-28,pending,140,20,20
+141,Lincoln,Omaha,600,2025-10-30,in_transit,141,21,21
+142,Omaha,Kansas City,1900,2025-11-01,delivered,142,22,22
+143,Kansas City,Denver,5200,2025-11-03,pending,143,23,23
+144,Denver,Chicago,4800,2025-11-05,in_transit,144,24,24
+145,Chicago,Detroit,2600,2025-11-07,delivered,145,25,25
+146,Detroit,Cleveland,1800,2025-11-09,pending,146,26,26
+147,Cleveland,Pittsburgh,1500,2025-11-11,in_transit,147,27,27
+148,Pittsburgh,Philadelphia,3200,2025-11-13,delivered,148,28,28
+149,Philadelphia,New York,900,2025-11-15,pending,149,29,29
+150,New York,Boston,2100,2025-11-17,in_transit,150,30,30
