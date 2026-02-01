@@ -25,6 +25,7 @@ The goal of this project is to:
 
 ## Project Structure
 
+```
 Trucking-Database-System/
    Phase 1/
       database/ # Raw data
@@ -43,6 +44,7 @@ Trucking-Database-System/
    Phase 3/
       front-end.py # Python front-end 
    README.md # Documentation
+```
 
 ## How To Run
 
