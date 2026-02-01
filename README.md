@@ -26,23 +26,23 @@ The goal of this project is to:
 ## Project Structure
 
 Trucking-Database-System/
-├─ Phase 1/
-├───── database/ # Raw data
-├───────── customer.csv
-├───────── driver.csv
-├───────── inventory.csv
-├───────── maintenance_record.csv
-├───────── payment.csv
-├───────── route.csv
-├───────── shipment.csv
-├───────── truck.csv
-├───── truckingCompanyDataDump.sql # Database dump
-├───── truckingCompanyEERDiagram.mwb # Database schema EER diagram
-├─ Phase 2/
-├───── my_queries.sql # SQL queries and comments
-├─ Phase 3/
-├───── front-end.py # Python front-end 
-└─ README.md # Documentation
+   Phase 1/
+      database/ # Raw data
+            customer.csv
+            driver.csv
+            inventory.csv
+            maintenance_record.csv
+            payment.csv
+            route.csv
+            shipment.csv
+            truck.csv
+      truckingCompanyDataDump.sql # Database dump
+      truckingCompanyEERDiagram.mwb # Database schema EER diagram
+   Phase 2/
+      my_queries.sql # SQL queries and comments
+   Phase 3/
+      front-end.py # Python front-end 
+   README.md # Documentation
 
 ## How To Run
 
